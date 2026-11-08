@@ -1,0 +1,16 @@
+{
+  "architecture": "amd64",
+  "serverTimezone": "UTC",
+  "productionStartup": true,
+  "volumeTargets": [
+    "/app/data",
+    "/app/uploads"
+  ],
+  "publishedPortsAbsent": true,
+  "isolatedNetworkCount": 1,
+  "officialEncryptionKeyCliValidated": true,
+  "sqliteIntegrity": "ok",
+  "administratorCount": 1,
+  "appErrorLogLines": [],
+  "previewIndependentVolumesAndNetwork": true
+}

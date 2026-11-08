@@ -1,0 +1,25 @@
+{
+  "head": "504c49ad0635bf1887c3955aff0f6d840f8d1e5a",
+  "checks": [
+    {
+      "name": "validate-meta",
+      "conclusion": "success",
+      "url": "https://github.com/Dokploy/templates/actions/runs/42483110986"
+    },
+    {
+      "name": "validate",
+      "conclusion": "success",
+      "url": "https://github.com/Dokploy/templates/actions/runs/42483111041"
+    },
+    {
+      "name": "validate-docker-compose",
+      "conclusion": "success",
+      "url": "https://github.com/Dokploy/templates/actions/runs/42483111256"
+    },
+    {
+      "name": "build-preview",
+      "conclusion": "success",
+      "url": "https://github.com/Dokploy/templates/actions/runs/42483111124"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "deployment": "initial",
+    "path": "/",
+    "status": 200
+  },
+  {
+    "deployment": "initial",
+    "path": "/posts/a-fresh-start-for-independent-publishing",
+    "status": 200
+  },
+  {
+    "deployment": "initial",
+    "path": "/posts/scheduled-dispatch",
+    "status": 200
+  },
+  {
+    "deployment": "initial",
+    "pageErrors": [],
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "path": "/favicon.ico"
+      }
+    ],
+    "unexpectedConsoleErrors": [],
+    "failedResponses": []
+  },
+  {
+    "deployment": "preview",
+    "path": "/",
+    "status": 200
+  },
+  {
+    "deployment": "preview",
+    "path": "/posts/a-fresh-start-for-independent-publishing",
+    "status": 200
+  },
+  {
+    "deployment": "preview",
+    "path": "/posts/scheduled-dispatch",
+    "status": 200
+  },
+  {
+    "deployment": "preview",
+    "pageErrors": [],
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "path": "/favicon.ico"
+      }
+    ],
+    "unexpectedConsoleErrors": [],
+    "failedResponses": []
+  }
+]

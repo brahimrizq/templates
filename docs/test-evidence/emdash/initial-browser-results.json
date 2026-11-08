@@ -1,0 +1,35 @@
+{
+  "mode": "initial",
+  "https": true,
+  "pageErrors": [],
+  "consoleErrors": [],
+  "browserTimezone": "Europe/Paris",
+  "health": {
+    "status": 200,
+    "data": {
+      "success": true,
+      "data": {
+        "product": "emdash",
+        "version": "1.4.0",
+        "registry": false
+      }
+    }
+  },
+  "sessionCookie": {
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "Lax"
+  },
+  "editorCreateSavePublish": true,
+  "scheduledPublication": true,
+  "mediaByteMatch": true,
+  "draftPrivate": true,
+  "scheduledPublicPage": true,
+  "anonymousApiDenied": true,
+  "productionDevHooksDenied": [
+    403,
+    403
+  ],
+  "passkeyLogoutLogin": true,
+  "passkeyLogin": true
+}
